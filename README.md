@@ -8,4 +8,5 @@ In [mmkb](https://github.com/mniepert/mmkb), they provide a list of URLs that ca
 #### WN18-IMG：  
 Entity images in WN18 can be obtained from ImageNet, the specific steps can refer to RSME. the RSME [repository](https://github.com/wangmengsd/RSME).  
 ## Model Architecture
+![image](https://github.com/HiddenDragon33/M2KGRL/blob/main/model.png)
 ## Requirements
