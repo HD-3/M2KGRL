@@ -1,4 +1,3 @@
-# M2KGRL
-##Datasets:
-##Model Architecture
-##Requirements
+## Datasets:
+## Model Architecture
+## Requirements
