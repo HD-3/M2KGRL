@@ -11,3 +11,9 @@ Entity images in WN18 can be obtained from ImageNet, the specific steps can refe
 ![image](https://github.com/HiddenDragon33/M2KGRL/blob/main/model.png)
 ## Requirements  
 Pytorch 1.11.0, python 3.7  
+##  Reproducing the Results in the Paper  
+#### WN18:  
+RUN python main.py -ne 1000 -lr 0.03 -reg 0.1 -dataset WN18 -emb_dim 600 -neg_ratio 5 -batch_size 1415 -save_each 50  
+#### FB15K:  
+RUN python main.py -ne 1000 -lr 0.03 -reg 0.3 -dataset FB15K -emb_dim 500 -neg_ratio 20 -batch_size 4832 -save_each 50  
+
